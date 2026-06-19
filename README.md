@@ -73,7 +73,7 @@ const developer = {
 * 🔭 Building backend applications with **Node.js, NestJS and TypeScript**
 * 🧩 Interested in **REST APIs, Microservices, Authentication and System Design**
 * ⚛️ Able to build frontend applications using **ReactJS and modern state management**
-* 🗄️ Working with **SQL, NoSQL databases and Redis caching**
+* 🗄️ Working with both **SQL, NoSQL databases and Redis caching**
 * 📚 Continuously improving backend architecture and clean-code practices
 
 ---
@@ -137,6 +137,44 @@ const developer = {
 
 ---
 
+## 📦 Current Projects
+
+### 🍔 Food Delivery Backend
+
+A backend-focused food delivery system built with:
+
+* NestJS and TypeScript
+* Microservices architecture
+* API Gateway/BFF
+* Authentication and authorization
+* MySQL and Redis
+* Docker development environment
+* Centralized logging and exception handling
+
+### 🐾 Pet Shop Platform
+
+A full-stack e-commerce application featuring:
+
+* Product search, filtering and pagination
+* Shopping cart and checkout
+* Order management
+* JWT authentication
+* Email OTP verification
+* Admin dashboard
+* ReactJS, Redux Toolkit, Node.js and MongoDB
+
+### 💬 Realtime Chat Application
+
+A realtime messaging application featuring:
+
+* One-to-one messaging
+* Realtime communication with Socket.IO
+* Conversation and message storage
+* Online status
+* Realtime notifications
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -183,6 +221,7 @@ DevOps Fundamentals
 * Use Redis effectively for caching and backend performance
 * Improve testing and application security
 * Learn Docker, Linux, CI/CD and Kubernetes fundamentals
+* Build projects that solve realistic business problems
 * Prepare for a Backend Developer internship
 
 ---
@@ -209,7 +248,7 @@ DevOps Fundamentals
 
 <div align="center">
 
-### 💡 Clean code, consistent learning and real-world experience.
+### 💡 Clean code, consistent learning and real projects.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:2563EB,100:06B6D4" />
 
