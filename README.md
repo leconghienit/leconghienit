@@ -27,17 +27,17 @@
 
 ```ts
 const hien = {
-  role: "Backend Developer",
-  mainStack: ["TypeScript", "Node.js", "NestJS"],
-  databases: ["MySQL", "PostgreSQL", "MongoDB"],
-  architecture: ["REST API", "Microservices", "Event-driven systems"],
-  devOps: ["Linux", "Docker", "Git", "CI/CD fundamentals"],
-  currentFocus: [
-    "Building clean and scalable backend systems",
-    "Improving system design and observability",
-    "Learning Kubernetes and cloud fundamentals"
-  ],
-  mindset: "Learn deeply, build consistently, improve every day"
+    role: "Backend Developer",
+    mainStack: ["TypeScript", "Node.js", "NestJS"],
+    databases: ["MySQL", "PostgreSQL", "MongoDB"],
+    architecture: ["REST API", "Microservices", "Event-driven systems"],
+    devOps: ["Linux", "Docker", "Git", "CI/CD fundamentals"],
+    currentFocus: [
+        "Building clean and scalable backend systems",
+        "Improving system design and observability",
+        "Learning Kubernetes and cloud fundamentals",
+    ],
+    mindset: "Learn deeply, build consistently, improve every day",
 };
 ```
 
@@ -140,23 +140,23 @@ A realtime messaging project using:
 
 ---
 
+```md
 ## 📈 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=leconghienqn2006&show_icons=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=22C55E&text_color=CBD5E1&bg_color=00000000" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=leconghienit&show_icons=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=22C55E&text_color=CBD5E1&bg_color=00000000" alt="GitHub stats" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=leconghienqn2006&hide_border=true&theme=transparent&ring=38BDF8&fire=22C55E&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8&background=00000000" alt="GitHub streak" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=leconghienit&hide_border=true&theme=transparent&ring=38BDF8&fire=22C55E&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8&background=00000000" alt="GitHub streak" />
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leconghienqn2006&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=CBD5E1&bg_color=00000000&langs_count=8" alt="Top languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leconghienit&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=CBD5E1&bg_color=00000000&langs_count=8" alt="Top languages" />
 
 </div>
 
 > GitHub statistics only reflect public repositories and should not be treated as a complete measurement of engineering ability.
-
----
+```
 
 ## 🎯 Current Learning Roadmap
 
